@@ -1,0 +1,1 @@
+void IERG3810_clock_tree_init(void);
