@@ -1,5 +1,5 @@
 # IERG3810_simplified_Arknight
-Project for IERG 3810. It is simplified Arknight which is a tower defense game. Licensed by hhm000827 (Me). 
+Project for IERG 3810. It is simplified Arknight which is a tower defense game. Copyright by hhm000827 (Me). 
 
 Don't try to copy and use in IERG3810 since they are the king of the source code.
 
